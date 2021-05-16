@@ -1,4 +1,4 @@
-# LDAP CONCEPTS#
+# LDAP CONCEPTS #
 
 ## What is LDAP ? ##
  
